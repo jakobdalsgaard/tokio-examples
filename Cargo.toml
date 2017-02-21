@@ -1,0 +1,11 @@
+[package]
+name = "tokio-examples"
+version = "0.1.0"
+authors = ["Jakob Dalsgaard <jakob@dalsgaard.net>"]
+
+[dependencies]
+futures = "0.1"
+tokio-core = "0.1"
+tokio-signal = "0.1"
+libc = "0.2"
+
